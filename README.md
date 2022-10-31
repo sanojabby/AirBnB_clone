@@ -236,6 +236,6 @@ In the console.py, you will find the following commands:
 
 
 
-  - Marcus Ruth
+  -Sano jabby
 
-  - Ifeanyi Nze
+  
